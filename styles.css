@@ -20,7 +20,7 @@
 }
 
 nav{
-    background: lightblue;
+    background: #ff2e00;
     grid-area: nav;
     border-radius: var(--main-radius);
     padding-top: var(--main-padding);
